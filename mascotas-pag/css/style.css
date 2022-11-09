@@ -98,11 +98,23 @@ body{
 .contenedor .doctor{
 	grid-area: doctor;
 	display: flex;
-	padding: ;
+	margin: 50px 0;
 	justify-content: space-between;
-	
-	
 }
+.contenedor .doctor .cuadro-doctor1{
+	position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.contenedor .doctor .cuadro-doctor1 .texto-encima{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);	
+	background: #5c5c5c21;
+    backdrop-filter: blur(10000px);
+}
+
 /*---------------------------------------------*/
 /*                    Sponsor                  */
 /*---------------------------------------------*/
@@ -177,6 +189,10 @@ body{
 }
 .espacio{
 	padding: 2em 0;
+}
+.doctor-texto{
+	color: rgb(5, 5, 5);
+	tr
 }
 /*---------------------------------------------*/
 /*                   Botones                  */

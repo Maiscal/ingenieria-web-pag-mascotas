@@ -54,31 +54,30 @@
 	</section>
 
 	<section class="doctor">
-		<div>
+		<div class="cuadro-doctor1">
 			<img src="images/doctor1.png">
 			<div class="texto-encima">
-				<h3 class="mayusculas"></h3>	
-				<p></p>
+				<h3 class="doctor-texto">Dr. JOMEZ SOLANO</h3>
 			</div>
 		</div>
-		<div>
+		<div class="cuadro-doctor1">
 			<img src="images/doctor2.jpg">
 			<div class="texto-encima">
-				<h3 class="mayusculas"></h3>	
+			<h3 class="doctor-texto">Dr. Elver Ghallarha</h3>
 				<p></p>
 			</div>
 		</div>
-		<div>
+		<div class="cuadro-doctor1">
 			<img src="images/doctor3.jpg">
 			<div class="texto-encima">
-				<h3 class="mayusculas"></h3>	
+				<h3 class="doctor-texto">Dr. Melo Tiesto</h3>	
 				<p></p>
 			</div>
 		</div>
-		<div>
+		<div class="cuadro-doctor1">
 			<img src="images/doctor4.png">
 			<div class="texto-encima">
-				<h3 class="mayusculas"></h3>	
+				<h3 class="doctor-texto">Dr. Soila Pharedes</h3>	
 				<p></p>
 			</div>
 		</div>
