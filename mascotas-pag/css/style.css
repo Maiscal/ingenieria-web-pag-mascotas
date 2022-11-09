@@ -95,21 +95,14 @@ body{
 /*---------------------------------------------*/
 /*                    Doctores                 */
 /*---------------------------------------------*/
-.contenedor .doctor1, .contenedor .doctor2 {
-	display: flex;
-	font-size: 32px;
-	padding: 70px 0
-}
-.contenedor .doctor1 img, .contenedor .doctor2 img{
+.contenedor .doctor{
 	grid-area: doctor;
-	background-color: #fff;
 	display: flex;
-	width: auto;
-	height: 650px;
-	width: 350px;
-	padding: 0 50px;		
+	padding: ;
+	justify-content: space-between;
+	
+	
 }
-
 /*---------------------------------------------*/
 /*                    Sponsor                  */
 /*---------------------------------------------*/

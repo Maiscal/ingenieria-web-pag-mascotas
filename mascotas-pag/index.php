@@ -55,22 +55,28 @@
 
 	<section class="doctor">
 		<div>
-			<img src="images/doctor1.jpg">
+			<img src="images/doctor1.png">
 			<div class="texto-encima">
 				<h3 class="mayusculas"></h3>	
 				<p></p>
 			</div>
+		</div>
+		<div>
 			<img src="images/doctor2.jpg">
 			<div class="texto-encima">
 				<h3 class="mayusculas"></h3>	
 				<p></p>
 			</div>
+		</div>
+		<div>
 			<img src="images/doctor3.jpg">
 			<div class="texto-encima">
 				<h3 class="mayusculas"></h3>	
 				<p></p>
 			</div>
-			<img src="images/doctor4.jpg">
+		</div>
+		<div>
+			<img src="images/doctor4.png">
 			<div class="texto-encima">
 				<h3 class="mayusculas"></h3>	
 				<p></p>
